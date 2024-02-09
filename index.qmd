@@ -13,3 +13,5 @@ title-block-banner: true
 
 
 Laboratory of Financiaal Marketing
+
+Federal University of Paraiba
