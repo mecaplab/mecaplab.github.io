@@ -1,5 +1,5 @@
 ---
-title: "mecaplab.github.io"
+title: "MECAPLAB"
 listing:
   contents: posts
   sort: "date desc"
