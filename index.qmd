@@ -12,3 +12,4 @@ title-block-banner: true
 ---
 
 
+This is a laboratory.
