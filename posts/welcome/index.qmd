@@ -1,9 +1,11 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Gustavo C. Xavier"
 date: "2024-02-05"
 categories: [news]
 ---
+
+Seja bem vindo!
 
 This is the first post in a Quarto blog. Welcome!
 
